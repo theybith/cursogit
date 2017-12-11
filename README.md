@@ -9,3 +9,5 @@ commit 2 (ex2)
 exercise 3
 exercise 3 fixed
 exercise 4
+
+ex 5_1
