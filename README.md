@@ -7,3 +7,4 @@ commit1
 commit 2 (ex2)
 
 exercise 3
+exercise 3 fixed
