@@ -11,3 +11,4 @@ exercise 3 fixed
 exercise 4
 
 ex 5_1
+ex 5_2
